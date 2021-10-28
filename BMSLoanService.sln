@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMSLoanService", "BMSLoanService.csproj", "{EE8767D3-3BC2-4537-B66C-8A8ADD3CAD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMSLoanTestProject", "..\BMSLoanTestProject\BMSLoanTestProject.csproj", "{68D8FCBC-E294-487E-8EFE-7D714FA7BD09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE8767D3-3BC2-4537-B66C-8A8ADD3CAD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8767D3-3BC2-4537-B66C-8A8ADD3CAD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8767D3-3BC2-4537-B66C-8A8ADD3CAD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8767D3-3BC2-4537-B66C-8A8ADD3CAD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D8FCBC-E294-487E-8EFE-7D714FA7BD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D8FCBC-E294-487E-8EFE-7D714FA7BD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D8FCBC-E294-487E-8EFE-7D714FA7BD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D8FCBC-E294-487E-8EFE-7D714FA7BD09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4687C720-E70C-41D3-83F3-C56261A3F925}
+	EndGlobalSection
+EndGlobal
